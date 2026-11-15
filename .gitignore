@@ -1,0 +1,5 @@
+/storage/*.sqlite
+/storage/config.php
+/storage/database.config.php
+/storage/payment.config.php
+/storage/logos/
